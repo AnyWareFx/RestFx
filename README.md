@@ -1,4 +1,4 @@
 RestFx
 ======
 
-RESTful Single Page App JavaScript Framework
+RESTful JavaScript Framework for Single Page Apps
