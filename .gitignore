@@ -1,0 +1,9 @@
+node_modules
+bower_components
+
+api
+public/scripts/rest-fx
+
+src/**/*.js
+src/**/*.map
+src/**/*.html

@@ -1,0 +1,14 @@
+{
+    "name": "RestFx",
+    "version": "0.1.0",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "*"
+    }
+}

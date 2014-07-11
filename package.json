@@ -1,0 +1,32 @@
+{
+    "name": "RestFx",
+    "description": "RESTful CoffeeScript Framework for Single Page Apps",
+    "version": "0.1.0",
+    "homepage": "https://github.com/AnyWareFx/RestFx",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/AnyWareFx/RestFx.git"
+    },
+    "engines": {
+        "node": "latest"
+    },
+    "dependencies": {
+        "express": "3.x",
+        "coffee-script": "latest",
+        "mongoose": "latest"
+    },
+    "devDependencies": {
+        "cucumber": "latest",
+        "mockgoose": "latest"
+    },
+    "scripts": {
+        "start": "node api/server.js"
+    },
+    "author": "Dave Jackson <dave.jackson@anywarefx.com>",
+    "keywords": [
+        "REST",
+        "CoffeeScript",
+        "framework",
+        "SPA"
+    ]
+}
