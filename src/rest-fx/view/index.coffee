@@ -1,0 +1,5 @@
+module.exports.Template = require './template'
+module.exports.View = require './view'
+module.exports.Panel = require './panel'
+module.exports.Form = require './form'
+module.exports.List = require './list'
